@@ -1,5 +1,5 @@
 // Reemplazá esto con la URL de TU script de Google Apps
-const URL_GOOGLE_SCRIPT = "https://script.google.com/macros/s/AKfycbw4QY8-He7SPyHrBSnAESKWnV_Y4NnpQ7fDjbf1_MdE8pRb817JXmm_lAXhc5vtrP6BiQ/exec";
+const URL_GOOGLE_SCRIPT = "https://script.google.com/macros/s/AKfycbwlip2z6Mucnzcok1FcpaR6NqrPJjbX0EyDyw_oaYwRvEuv6wAS_vSaAYsxAUuSnoYzbg/exec";
 
 // selectores de productos
 const formulario = document.getElementById('form-servicio');
