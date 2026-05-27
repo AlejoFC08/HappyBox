@@ -1,4 +1,4 @@
-const URL_GOOGLE_SCRIPT = "https://script.google.com/macros/s/AKfycbwlip2z6Mucnzcok1FcpaR6NqrPJjbX0EyDyw_oaYwRvEuv6wAS_vSaAYsxAUuSnoYzbg/exec";
+const URL_GOOGLE_SCRIPT = "https://script.google.com/macros/s/AKfycbyw5Z5J_csn_17VHedPIeH6I3snTJuG2QmbRWekmdN0tTKTey5lfOq06fieBYlsF-eUhA/exec";
 
 const contenedorServicios = document.getElementById('contenedor-servicios');
 const contenedorTrabajos = document.getElementById('contenedor-trabajos');
